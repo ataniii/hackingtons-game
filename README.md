@@ -1,2 +1,2 @@
-# hackingtons-game
+# game
 very high skill game
